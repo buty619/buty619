@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **cristianfbr11@gmail.com**
 
-- 📄 Know about my experiences +4 years fullstack dev on [GLOBANT](https://www.globant.com/)[HUGE](https://www.hugeinc.com/)[WIZELINE](https://www.wizeline.com/)
+- 📄 Know about my experiences +4 years fullstack dev on [GLOBANT](https://www.globant.com/), [HUGE](https://www.hugeinc.com/), [WIZELINE](https://www.wizeline.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
